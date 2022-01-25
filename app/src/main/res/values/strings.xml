@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BanRemote</string>
+    <string name="charging">充電中</string>
+    <string name="_73">73%</string>
+</resources>
